@@ -11,13 +11,13 @@
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 
-
+{# 主题基本色设置 #}
 <meta name="theme-color" content="#f8f5ec" />
 <meta name="msapplication-navbutton-color" content="#f8f5ec">
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 {# 删除默认的苹果工具栏和菜单栏。默认值为yes，即显示，所以下面这行是废的 #}
-<meta name="apple-mobile-web-app-capable" content="yes">
+{# <meta name="apple-mobile-web-app-capable" content="yes"> #}
 
 
 

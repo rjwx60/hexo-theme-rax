@@ -17,10 +17,12 @@
 
 		{# 移动端分页 #}
 		<div class="container" id="mobile-panel">
+
+			{# 引入模块 header.swig 顶部栏 #}
 			<header class="header" id="header">
-				{# 引入模块 header.swig 顶部栏 #}
 				{% include "_partial/header.swig" %}
 			</header>
+
 
 			<main class="main" id="main">
 				<div class="content-wrapper">
@@ -32,8 +34,9 @@
 				</div>
 			</main>
 
+
+			{# 引入模块 footer.swig 底部栏 #}
 			<footer class="footer" id="footer">
-				{# 引入模块 footer.swig 底部栏 #}
 				{% include "_partial/footer.swig" %}
 			</footer>
 
