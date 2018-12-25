@@ -52,3 +52,9 @@
 	<meta name="google-site-verification" content="{{ theme.google_verification }}" />
 {% endif %}
 
+
+{#
+<meta charset="UTF-8"/>
+<meta http-equiv=".." content=".."/>
+<meta name=".." content=".."/>
+#}
