@@ -1,15 +1,9 @@
-// 基本样式 - 无
 @import "_custom/custom";
-
-// 定义变量
 @import "_variables";
 
-// 一般 - 工具 + 默认清除 + 动画特效
 @import "_common/utils";
 @import "_common/animation";
 
-
-// 基本的样式 + 各个页面样式
 @import "_base";
 @import "_partial/header";
 @import "_partial/post";
