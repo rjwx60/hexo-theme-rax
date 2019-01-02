@@ -1,6 +1,5 @@
 {# 这是 copyRight 区 #}
 {# __() 的作用貌似是大写 #}
-{# 变量赋值 set #}
 
 {% if theme.copyright.enable and page.copyright !== false %}
   <div class="post-copyright">
